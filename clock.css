@@ -24,9 +24,16 @@
     
 }
 
+
+.btn-div{
+    width: 100%;
+    padding: 1rem;
+    
+
+}
 .btn{
     width: 150px;
-    margin: 100px;
+    margin: 50px  500px ;
     border: 2px solid black;
     border-radius: 20px;
     line-height: 50px;
